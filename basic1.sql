@@ -1,7 +1,7 @@
 -- Creating a database named analysis
 CREATE DATABASE analysis;
 
--- Creating a table names teachers
+-- Creating a table named teachers
 CREATE TABLE teachers (
     id bigserial,
     first_name varchar(25),
